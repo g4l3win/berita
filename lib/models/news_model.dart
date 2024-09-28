@@ -1,5 +1,5 @@
 //while the app is building let's create the NewsData class
-//log
+//logkkkk
 class NewsData {
   String? title;
   String? author;
