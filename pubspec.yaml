@@ -1,0 +1,31 @@
+name: berita
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  carousel_slider: ^4.0.0  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - img/BestJeanist.png
+    - img/Ectoplasm.png
+    - img/EdgeShot.png
+    - img/eraserhead.png
+    - img/Fatgum.png
+    - img/GangOrca.png
+    - img/Miruko.png
+    - img/nedzu.png
+    - img/PresentMic.png
+    - img/Ryukyu.png
